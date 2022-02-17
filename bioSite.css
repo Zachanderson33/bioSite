@@ -5,13 +5,14 @@ body{
     size: 16px;
     color: #1974A6;
     font-family: 'Lato', sans-serif;
+    background-color: black;
 }
 p{
     font-weight: 400;
     font-family: 'Zen Kurenaido', sans-serif;
     line-height: 1.4em;
     text-align: left;
-    color: #42CAFF;
+    color: lightblue;
 }
 ol{
     list-style-type: decimal;
@@ -41,4 +42,6 @@ h2{
 .images{
     text-align: center;
     image-orientation: ;
+    float: inline-start;
+
 }
